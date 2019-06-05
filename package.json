@@ -28,7 +28,7 @@
     "express": "~4.4.2",
     "jade": "~0.35.0",
     "stylus": "~0.38.0",
-    "superagent": "~0.15.7",
+    "superagent": "~5.0.5",
     "workshopper": "~0.3.3"
   }
 }
